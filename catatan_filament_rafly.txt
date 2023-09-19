@@ -1,0 +1,4 @@
+membuat resource
+- php artisan make:filament-resource Transaksi
+- php artisan make:model Transaksi -m
+- 
